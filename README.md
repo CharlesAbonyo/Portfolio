@@ -30,7 +30,7 @@
 
     <section id="welcome-section" class="welcome-section">
       <h1>Hey I am Charles</h1>
-      <p>a web developer</p>
+      <p>A web developer</p>
     </section>
 
     <!-- END WELCOME SECTION -->
